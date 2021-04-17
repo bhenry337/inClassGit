@@ -5,3 +5,5 @@ def Divisor(a):
 				print(x)
 				pass
 			pass
+
+Divisor(10)
